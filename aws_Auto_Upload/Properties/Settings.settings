@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="scanner_process_cmd_V2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="_ScannerPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1,9600,8,1,N</Value>
+    </Setting>
+    <Setting Name="_ScannerType" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Serial</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
